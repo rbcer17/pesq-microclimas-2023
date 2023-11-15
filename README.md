@@ -14,3 +14,9 @@ https://r-graph-gallery.com/boxplot.html
 You can rename a variable in a dataset by changing a value in the names() vector (base R) or by using the rename() function (tidyverse).
 
 https://bookdown.org/rwnahhas/IntroToR/rename.html
+
+The rbind() function in R - Binding Rows Made Easy
+
+[
+](https://www.digitalocean.com/community/tutorials/rbind-function-r)https://www.digitalocean.com/community/tutorials/rbind-function-r
+
