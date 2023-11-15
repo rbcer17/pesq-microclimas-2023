@@ -11,3 +11,6 @@ https://www.programiz.com/r/examples/extract-characters-from-string#:~:text=In%2
 how to make boxplots rstudio scatterplot many plots
 https://r-graph-gallery.com/boxplot.html
 
+You can rename a variable in a dataset by changing a value in the names() vector (base R) or by using the rename() function (tidyverse).
+
+https://bookdown.org/rwnahhas/IntroToR/rename.html
